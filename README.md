@@ -2,6 +2,9 @@
 
 > generate axios api root
 
+Here is the sample repository using this s2s plugin.
+[https://github.com/cndlhvn/s2s-redux-actions-sample](https://github.com/cndlhvn/s2s-redux-actions-sample)
+
 ## Install
 
 ```
